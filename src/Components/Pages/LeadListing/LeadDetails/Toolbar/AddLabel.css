@@ -1,0 +1,9 @@
+.label-ui{
+    padding: 2px 8px;
+    margin: 2px;
+    display: inline;
+    width: auto;
+    border-radius: 5px;
+    line-height: 12px;
+    text-align: center;
+}
