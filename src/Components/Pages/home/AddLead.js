@@ -110,7 +110,7 @@ console.log('Id of the lead : '+res.data.data.id);
             <div className="modal-header">
                 <h5 className="modal-title" id="exampleModalLabel">Add Lead </h5>
 
-                <select className="form-control lead_type_change d-none" onChange={handleLeadTypeIdChange}>
+                <select className="form-control lead_type_change" onChange={handleLeadTypeIdChange}>
                     <option value="">choose</option>
                     {leadTypeList.map(obj => {
                         if(leadTypeId === obj.id)

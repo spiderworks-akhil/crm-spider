@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74b02cd-3b47-48e8-b5aa-020f53d4e87f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/home/AddLead.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/home/AddLead.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +31,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddLead.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Components/Pages/home/AddLead.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="124" column="21" lean-forward="true" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Owner.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/CustomTabs/Menu.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/CustomTabs/TabContent.js" />
-        <option value="$PROJECT_DIR$/src/Components/Pages/home/AddLead.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadListigPage.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadFilter.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/EditLead.js" />
@@ -153,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/Components/Common/LeftMenu.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Pages/home/AddLead.js" />
       </list>
     </option>
   </component>
@@ -172,7 +184,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="295" />
     <option name="width" value="1920" />
@@ -336,12 +348,12 @@
       <workItem from="1628185778980" duration="3127000" />
       <workItem from="1628238925299" duration="5984000" />
       <workItem from="1628264952162" duration="5855000" />
-      <workItem from="1628601638140" duration="3228000" />
+      <workItem from="1628601638140" duration="3956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242632000" />
+    <option name="totallyTimeSpent" value="243360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,7 +374,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" visible="true" weight="0.44668588" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.44668588" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27046978" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -725,16 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Pages/home/AddLead.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="63" column="35" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadListigPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -762,7 +764,17 @@
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Pages/home/AddLead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="124" column="21" lean-forward="true" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
