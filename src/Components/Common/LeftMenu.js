@@ -7,7 +7,7 @@ const LeftMenu = () => {
             <div className="navigationbar">
                 <ul>
                     <li>
-                        <Link to="leads"> <i className="ri-cloud-line"></i>  Leads </Link>
+                        <Link to="/"> <i className="ri-cloud-line"></i>  Leads </Link>
                     </li>
                 </ul>
             </div>

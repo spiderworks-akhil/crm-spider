@@ -161,7 +161,6 @@ const LeadDetail = (props) => {
             <div className="box-shadow pad-10 lead-right-item">
             <Modal show={show} onHide={handleClose}>
                 <EditLead onCloseModal={handleClose} onLeadUpdate={onLeadUpdateHandler} lead_data={props.lead_data} lead_id={props.lead_data.id} />
-                <EditLead onCloseModal={handleClose} onLeadUpdate={onLeadUpdateHandler} lead_data={props.lead_data} lead_id={props.lead_data.id} />
             </Modal>
             <div className="row  lead-left-item mb-2">
                 <div className="col-md-12">
@@ -229,7 +228,7 @@ const LeadDetail = (props) => {
                         <a className={showCallTab ? "nav-link active" : "nav-link" } data-toggle="pill"  role="tab"
                            aria-controls="pills-Calls" aria-selected="false"  onClick={handleShowCalls}>Calls</a>
                     </li>
-                    <li className="nav-item" role="presentation">
+                    <li className="nav-item d-none" role="presentation">
                         <a className={showThirdPartyTab ? "nav-link active" : "nav-link" } data-toggle="pill"  role="tab"
                            aria-controls="pills-Calls" aria-selected="false"  onClick={handleShowThirdPartyTab}>ThirdParty</a>
                     </li>

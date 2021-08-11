@@ -49,7 +49,7 @@ const Header = (props) => {
             <div className="container">
 
                 <a className="navbar-brand" href="/#">
-                    <img src="assets/images/logo.png" height="40" alt="logo" />
+                    <img src="https://www.spiderworks.in/theme/web/img/logo.png" className="logo-header" alt="logo" />
                 </a>
 
                 <a className="mob-slide-menu">

@@ -3,19 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a74b02cd-3b47-48e8-b5aa-020f53d4e87f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Common/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Common/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/EditLead.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/EditLead.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Common/LeftMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Common/LeftMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/LeadDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/LeadDetail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Close.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Close.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Stages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Stages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/ThirdParty.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/ThirdParty.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/AddCall.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/AddCall.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/AddLabel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/AddLabel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/ToolBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/ToolBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadFilter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadListigPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadListigPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/home/AddLead.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/home/AddLead.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,65 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Close.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Close.js">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="121" column="36" lean-forward="true" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
+            <state relative-caret-position="221">
+              <caret line="43" column="33" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddLabel.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/AddLabel.js">
+      <file leaf-file-name="LeftMenu.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Components/Common/LeftMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="131" column="81" selection-start-line="131" selection-start-column="81" selection-end-line="131" selection-end-column="81" />
+            <state relative-caret-position="153">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeadListigPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadListigPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
               <folding>
-                <element signature="e#0#46#0" expanded="true" />
-                <element signature="e#1645#2245#0" />
-                <element signature="e#1386#1986#0" />
-                <element signature="e#2325#3027#0" />
+                <element signature="e#0#38#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeadDetail.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/LeadDetail.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1085">
-              <caret line="240" column="21" lean-forward="true" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ToolBar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/ToolBar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="25" column="67" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Notes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/Notes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="30" column="10" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="30" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stages.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Stages.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -93,9 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>id</find>
-      <find>&lt;form</find>
-      <find>style</find>
       <find>handleModalClose</find>
       <find>branch</find>
       <find>assigned_user</find>
@@ -123,6 +88,9 @@
       <find>fetchLeadClosingStatus</find>
       <find>AddL</find>
       <find>useE</find>
+      <find>Edit</find>
+      <find>add</find>
+      <find>history</find>
     </findStrings>
     <replaceStrings>
       <replace>%PUBLIC_URL%/assets</replace>
@@ -139,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadSingleList.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/ToolBar.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/Components/Helpers/Helper.js" />
@@ -148,7 +115,6 @@
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Company.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Date.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/Login/Login.js" />
-        <option value="$PROJECT_DIR$/src/Components/Common/LeftMenu.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/ToolBar.css" />
         <option value="$PROJECT_DIR$/src/Components/Pages/Login/LoginPage.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/Login/LoginPage.css" />
@@ -164,7 +130,6 @@
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/Notes.css" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/Notes.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/SingleStage.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Stages.css" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Close.css" />
@@ -177,8 +142,6 @@
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Owner.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/CustomTabs/Menu.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/CustomTabs/TabContent.js" />
-        <option value="$PROJECT_DIR$/src/Components/Common/Header.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/home/AddLead.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadListigPage.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadFilter.js" />
@@ -186,10 +149,15 @@
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/ThirdParty.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/AddCall.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Stages.js" />
-        <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/LeadDetail.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Close.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/ToolBar.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/AddLabel.js" />
+        <option value="$PROJECT_DIR$/public/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/src/Components/Common/Header.js" />
+        <option value="$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/LeadDetail.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Common/LeftMenu.js" />
       </list>
     </option>
   </component>
@@ -209,7 +177,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="295" />
     <option name="width" value="1920" />
@@ -220,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,7 +265,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,11 +341,12 @@
       <workItem from="1628185778980" duration="3127000" />
       <workItem from="1628238925299" duration="5984000" />
       <workItem from="1628264952162" duration="5855000" />
+      <workItem from="1628601638140" duration="2467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239404000" />
+    <option name="totallyTimeSpent" value="241871000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,17 +358,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="830" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5010661" side_tool="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.44668588" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26644295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27046978" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -454,20 +423,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/ThirdParty.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1887">
-          <caret line="116" column="71" selection-start-line="116" selection-start-column="71" selection-end-line="116" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/Notes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/Notes.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -516,9 +471,6 @@
           <caret line="27" column="55" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="55" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
-            <element signature="e#1645#2245#0" />
-            <element signature="e#1386#1986#0" />
-            <element signature="e#2325#3027#0" />
           </folding>
         </state>
       </provider>
@@ -661,29 +613,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/CustomTabs/Menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Common/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="45" column="24" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/EditLead.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -699,47 +630,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadListigPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadFilter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Pages/home/AddLead.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3179">
-          <caret line="192" column="34" selection-start-line="192" selection-start-column="34" selection-end-line="192" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/EditLead.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,7 +653,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Stages.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
+        <state relative-caret-position="1853">
           <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
         </state>
       </provider>
@@ -767,44 +661,113 @@
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/Notes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="30" column="10" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="30" selection-end-column="10" />
+          <caret line="30" column="10" selection-start-line="15" selection-start-column="8" selection-end-line="30" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Stages/Close.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="121" column="36" lean-forward="true" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/LeadDetail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1085">
-          <caret line="240" column="21" lean-forward="true" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1972">
+          <caret line="121" column="36" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/ToolBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
+        <state relative-caret-position="357">
           <caret line="25" column="67" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Toolbar/AddLabel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="131" column="81" selection-start-line="131" selection-start-column="81" selection-end-line="131" selection-end-column="81" />
+        <state relative-caret-position="133">
+          <caret line="130" column="44" lean-forward="true" selection-start-line="129" selection-start-column="22" selection-end-line="130" selection-end-column="44" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
-            <element signature="e#1645#2245#0" />
-            <element signature="e#1386#1986#0" />
-            <element signature="e#2325#3027#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="2491" column="12" lean-forward="true" selection-start-line="2491" selection-start-column="1" selection-end-line="2491" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Common/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/EditLead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/LeadDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="228" column="113" lean-forward="true" selection-start-line="228" selection-start-column="113" selection-end-line="228" selection-end-column="113" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadDetails/Tabs/CustomTabs/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Pages/home/AddLead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Pages/LeadListing/LeadListigPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Common/LeftMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>

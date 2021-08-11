@@ -25,7 +25,7 @@ axios.interceptors.response.use(function (response) {
     if(response.data.error){
         if(response.data.error === 1001){
             localStorage.clear();
-            window.location.replace(process.env.PUBLIC_URL+'/logout');
+            window.location.replace(process.env.PUBLIC_URL);
         }
     }
 
