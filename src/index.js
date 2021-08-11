@@ -7,7 +7,7 @@ import axios from 'axios';
 import {BrowserRouter} from "react-router-dom";
 import { AuthContextProvider} from './Components/Auth/Auth'
 
-axios.defaults.baseURL = 'https://works.spiderworks.co.in/crm-admin/api/';
+axios.defaults.baseURL = 'https://works.spiderworks.co.in/crmbeta-admin/api/';
 
 
 axios.interceptors.request.use(function (config) {
