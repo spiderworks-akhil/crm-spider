@@ -39,7 +39,7 @@ const EditLead = (props) => {
     const handlePincodeChange = (e) => {setPincode(e.target.value)};
 
     const handleModifiedRequirementChange = (e) => {setModifiedRequirement(e.target.value)};
-    const handleLeadTypeIdChange = (e) => {setLeadTypeId(e.target.value); alert(e.target.value);};
+    const handleLeadTypeIdChange = (e) => {setLeadTypeId(e.target.value);};
 
     const leadTypes = () => {
         axios.get('lead-types?api_token='+authCtx.token)

@@ -920,8 +920,8 @@ table.table img {
 
 
 
-.name-cntr{
-      box-shadow: 0px 0px 0px 2px #fff, 1px 1px 5px rgb(0 0 0 / 32%);
+.name-cntr {
+    box-shadow: 0px 0px 0px 2px #fff, 1px 1px 5px rgb(0 0 0 / 32%);
     width: 35px;
     height: 35px;
     object-fit: cover;
@@ -933,6 +933,9 @@ table.table img {
     line-height: 35px;
     background-color: #a5006a;
     text-align: center;
+    background: #11998e;
+    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+    background: linear-gradient(to right, #38ef7d, #11998e);
 }
 .name-cntr.clr-2{ 
     color: #fff; 
